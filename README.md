@@ -9,6 +9,6 @@ Collected images from google through web-scraping performed data cleaning, data 
 * Matplotlib & Seaborn for data visualization
 * Sklearn for model building
 * Python flask for HTTP server
-* HTML/CSS/Javascript for UI
+* HTML/CSS/Javascript for  UI
 
 ©SyedMuhammadHamza Licensed under [MIT License](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier/blob/main/LICENSE)
