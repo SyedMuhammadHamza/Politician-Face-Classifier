@@ -1,10 +1,21 @@
 # Politician-Face-Classifier
 ![Alt Text](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier/blob/main/UI_Snapshot.gif)
+# Web Scraping
 * Collected images from google through web-scraping using Selenium with ChromeDriver 
+
+# Data Cleaning
 *  Performed data cleaning through face detection using OpenCV pre-trained feature-based  Haar cascade classifiers to discard images from the dataset without face and two eyes visible  
+
+# Feature engineering
 * Performed feature engineering through extraction by wavelet transformation of images using PyWavelets and then vertically stacking raw and wavelet transformed images 
-* trained machine learning models such as Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest achieved 88% test accuracy after hyper tuning the model guided by learning curve analysis
+
+# Model Building
+ trained machine learning models such as Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest achieved 85% test accuracy after hyper tuning the model guided by learning curve analysis
+ 
+# User interface
 *  Used HTML,CSS and JavaScript,
+
+# Productionization
 * Deployed model to production using Flask
 
 
