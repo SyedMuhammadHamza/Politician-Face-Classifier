@@ -16,7 +16,7 @@
 <img src="confusion_matrix.jpg"/>
 <img src="SCORES.jpg"/>
 
-Achieved 85% test accuracy after hyper tuning the model With Logisic regression
+Achieved 95% test accuracy after hyper tuning the model With Logisic regression
  
  
 # User interface
