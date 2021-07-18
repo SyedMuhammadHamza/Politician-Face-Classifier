@@ -197,7 +197,5 @@ if __name__ == "__main__":
 
     inception_resnet_v2 = create_inception_resnet_v2(ip, scale=True)
     model = Model(ip, inception_resnet_v2)
-    model.summary()
-
-    plot(model, to_file="Inception ResNet-v2.png", show_shapes=True)
+    
 
