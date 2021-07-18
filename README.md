@@ -14,7 +14,7 @@
  
 # Inception-ResNet(Inception-v4)
 * Implementation of Inception-Residual Network v1 [Inception Network v4 Paper](http://arxiv.org/pdf/1602.07261v1.pdf) in Keras.
-![Alt Text](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier/blob/main/Inception-ResNet_Inception-v4).png)
+![Alt Text](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier/blob/main/Inception-ResNet_Inception-v4.png)
  
  
 # User interface
