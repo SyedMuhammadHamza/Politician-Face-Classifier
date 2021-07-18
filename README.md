@@ -10,13 +10,7 @@
 * Performed feature engineering through extraction by wavelet transformation of images using PyWavelets and then vertically stacking raw and wavelet transformed images 
 
 # Model Building
- trained machine learning models such as Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest
- 
-# Model performance
-<img src="confusion_matrix.jpg"/>
-<img src="SCORES.jpg"/>
-
-Achieved 94% test accuracy after hyper tuning the model With Logisic regression
+ trained models such as Inception-ResNet, Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest
  
  
 # User interface
